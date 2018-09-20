@@ -1,4 +1,4 @@
 def speak_to_grandma(phrase)
-  #{phrase}.downcase == #{phrase}.downcase
+  .downcase == .downcase
   puts "Huh?!  Speak up Sonny".upcase
 end
